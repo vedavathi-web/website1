@@ -1,0 +1,79 @@
+.header li{
+    font-style: none;
+}
+.header{
+    background-color:rgb(127, 212, 184) ;
+    height: 150px;
+}
+.header-Logo{
+    color: rgb(23, 15, 5);
+    font-size: 40px;
+    padding: 5px;
+}
+.header-list li {
+    float: right;
+    padding:30px 22px;
+    text-decoration: none;
+    color: black;
+}
+.header-list li a{
+    color:black ;
+    font-style: none;
+    text-decoration:dotted;
+    font-style: normal;
+}
+
+.main{
+    padding: 350px 80px;
+}
+.copy-container h1{
+    font-size: 90px;
+    color: rgb(21, 21, 95);
+}
+.copy-container h3{
+    font-size: 50px;
+    color: rgb(79, 15, 15);
+}
+.contents-item {
+    font-size: 30px;
+    color: rgb(10, 10, 41);
+    float: right;
+    padding: 10px;
+}
+
+.contents-item { 
+ border-bottom: 2px solid #133c53;
+
+  font-size: 25px;
+
+  padding-bottom: 30px ;
+
+  margin-bottom: 200px;
+
+
+}
+.cantacts{
+    padding: 70px;
+    
+}
+.footer{
+    background-color: rgb(115, 223, 223);
+    height: 150px;
+    margin-top: 50px;
+}
+.footer-logo{
+    color: rgb(23, 15, 5);
+    font-size: 40px;
+    padding: 5px;
+}
+
+.footer-list li {
+    float: right;
+    padding:30px 22px;
+    font-style: none;
+    color: black;
+}
+.footer ul li a{
+    list-style: none;
+    color: black;
+}
